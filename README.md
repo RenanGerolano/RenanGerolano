@@ -14,21 +14,63 @@
 
 ### Page Structure and Style Information
 
-![40%](https://progress-bar.dev/40) - HTML5
+#### HTML5
 
-![20%](https://progress-bar.dev/20) - CSS3
+![40%](https://progress-bar.dev/40) 
+
+Learning about:
+
+Book's read: 1
+
+Documentation Status: Always open.
+
+Responsive thinking: ✔️ 
+
+#### CSS3
+
+![20%](https://progress-bar.dev/20)
+
+Learning about: 
+
+Book's read: 1
+
+Documentation Status: I'm sleeping thinking on it.
 
 ### Language Programming
 
-![1%](https://progress-bar.dev/1) - JavaScript
+#### JavaScript
 
-![15%](https://progress-bar.dev/15) - Ruby
+![1%](https://progress-bar.dev/1)
 
-![5%](https://progress-bar.dev/5) - Ruby on Rails
+Learning about: 
+
+Book's read about: 0
+
+Documentation Status: What is it?
+
+#### Ruby
+
+![15%](https://progress-bar.dev/15)
+
+Learning about: 
+
+Book's read about: 1
+
+Documentation Status: Never seen on my life¹.
+
+#### Ruby on Rails
+
+![5%](https://progress-bar.dev/5)
+
+Learning about: 
+
+Book's read about: 1
+
+Documentation Status: Never seen on my life².
 
 #### Observation
 
-All progress bar are not exactly what i set, at the moment i dont know how deep I'm on each category, your comment's will help me too see it later. :smile: 
+All progress bar are not exactly what i set, at the moment i dont know how deep I'm on each category, your comment's will help me to see it later. :smile: 
 
 <div align="center">
   <h2> WORKING ON </h2>
