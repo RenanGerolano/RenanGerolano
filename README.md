@@ -17,19 +17,19 @@
 |Observation        |
 |:-:                |
 |Responsive thinking|
-|         ✔️         |
+|✔️                  |
 
 |Language|Progress                           |Book's read about |Documentation Status         |
 |:-:     |:-:                                |:-:               |:-:                          |
 |HTML5   |![40%](https://progress-bar.dev/40)|1                 |Always open ✔️                |      
-|CSS5    |![20%](https://progress-bar.dev/20)|1                 |I'm sleeping thinking on it.✔️|
+|CSS5    |![20%](https://progress-bar.dev/20)|1                 |I'm sleeping thinking on it ✔️|
 
 ### Language Programming
 
 |Observation                |
 |:-------------------------:|
 |DRY - Dont Repeat Yourself |
-|             ✔️             |
+|✔️                          |
 
 |Language     |Progress                           |Book's read about|Documentation Status|
 |:-:          |:-:                                |:-:              |:-:                 |
