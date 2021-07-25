@@ -14,63 +14,31 @@
 
 ### Page Structure and Style Information
 
-#### HTML5
+|Observation        |
+|:-:                |
+|Responsive thinking|
+|         ✔️         |
 
-![40%](https://progress-bar.dev/40) 
-
-Learning about:
-
-Book's read: 1
-
-Documentation Status: Always open.
-
-Responsive thinking: ✔️ 
-
-#### CSS3
-
-![20%](https://progress-bar.dev/20)
-
-Learning about: 
-
-Book's read: 1
-
-Documentation Status: I'm sleeping thinking on it.
+|Language|Progress                           |Book's read about |Documentation Status         |
+|:-:     |:-:                                |:-:               |:-:                          |
+|HTML5   |![40%](https://progress-bar.dev/40)|1                 |Always open ✔️                |      
+|CSS5    |![20%](https://progress-bar.dev/20)|1                 |I'm sleeping thinking on it.✔️|
 
 ### Language Programming
 
-#### JavaScript
+|Observation                |
+|:-------------------------:|
+|DRY - Dont Repeat Yourself |
+|             ✔️             |
 
-![1%](https://progress-bar.dev/1)
+|Language     |Progress                           |Book's read about|Documentation Status|
+|:-:          |:-:                                |:-:              |:-:                 |
+|JavaScript   |![1%](https://progress-bar.dev/1)  |0                |:x:                 |
+|Ruby         |![15%](https://progress-bar.dev/15)|1                |:x:                 |
+|Ruby on Rails|![5%](https://progress-bar.dev/5)  |1                |:x:                 |
 
-Learning about: 
 
-Book's read about: 0
-
-Documentation Status: What is it?
-
-#### Ruby
-
-![15%](https://progress-bar.dev/15)
-
-Learning about: 
-
-Book's read about: 1
-
-Documentation Status: Never seen on my life¹.
-
-#### Ruby on Rails
-
-![5%](https://progress-bar.dev/5)
-
-Learning about: 
-
-Book's read about: 1
-
-Documentation Status: Never seen on my life².
-
-#### Observation
-
-All progress bar are not exactly what i set, at the moment i dont know how deep I'm on each category, your comment's will help me to see it later. :smile: 
+All progress bar are not exactly what i set, at the moment i dont know how deep I'm are on each category, your comment's will help me to see it later. :smile: 
 
 <div align="center">
   <h2> WORKING ON </h2>
