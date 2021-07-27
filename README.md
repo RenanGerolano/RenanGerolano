@@ -19,26 +19,39 @@
 |Responsive thinking|
 |✔️                  |
 
-|Language|Progress                           |Book's read about |Documentation Status         |
-|:-:     |:-:                                |:-:               |:-:                          |
-|HTML5   |![40%](https://progress-bar.dev/40)|1                 |Always open ✔️                |      
-|CSS5    |![20%](https://progress-bar.dev/20)|1                 |I'm sleeping thinking on it ✔️|
+|Language|Progress                           |Book's read|Documentation Status|
+|:-:     |:-:                                |:-:        |:-:                 |
+|HTML5   |![40%](https://progress-bar.dev/40)|1          |✔️                   |      
+|CSS5    |![20%](https://progress-bar.dev/20)|1          |✔️                   |
 
 ### Language Programming
 
-|Observation                |
-|:-------------------------:|
-|DRY - Dont Repeat Yourself |
-|✔️                          |
+|Observation         |
+|:------------------:|
+|Dont Repeat Yourself|
+|✔️                   |
 
-|Language     |Progress                           |Book's read about|Documentation Status|
-|:-:          |:-:                                |:-:              |:-:                 |
-|JavaScript   |![1%](https://progress-bar.dev/1)  |0                |:x:                 |
-|Ruby         |![15%](https://progress-bar.dev/15)|1                |:x:                 |
-|Ruby on Rails|![5%](https://progress-bar.dev/5)  |1                |:x:                 |
+|Language     |Progress                           |Book's read|Documentation Status|
+|:-:          |:-:                                |:-:        |:-:                 |
+|JavaScript   |![1%](https://progress-bar.dev/1)  |0          |:x:                 |
+|Ruby         |![15%](https://progress-bar.dev/15)|1          |:x:                 |
+
+### Frameworks
+
+|Language     |Progress                           |Book's read|Documentation Status|
+|:-:          |:-:                                |:-:        |:-:                 |
+|Ruby on Rails|![5%](https://progress-bar.dev/5)  |1          |:x:                 |
 
 
 All progress bar are not exactly what i set, at the moment i dont know how deep I'm are on each category, your comment's will help me to see it later. :smile: 
+
+#### Observation
+
+Progress = Study progress
+
+Book's read = Content i saw about
+
+Documentation Status = Searching source
 
 <div align="center">
   <h1>PROJECT'S</h1>
@@ -54,4 +67,3 @@ All progress bar are not exactly what i set, at the moment i dont know how deep 
 ## COMMING 🔜
 
 [SOS Churrasco](https://github.com/RenanGerolano/soschurrasco)
-  
