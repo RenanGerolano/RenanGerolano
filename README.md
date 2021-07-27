@@ -1,7 +1,7 @@
 <div align="center">
   <h1> What is my objective? </h1>
   <h3>
-    Now I'm studying web design and programming to be possible to create all my mind projects who i could not do on the past, based on interactivit and usability to help some enterprises of my state, maybe of all the country too.
+    Now I'm studying web design and programming to be possible to create all my mind projects what i could not do on the past, based on interactivit and usability to help some enterprises of my state, maybe of all the country too.
   </h3>
   <p> 
     <br>Usefull links
